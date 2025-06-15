@@ -30,17 +30,17 @@ This website is created specifically for:
 ## 🔗 Live Website
 
 Check it out here:  
-👉 [www.teamaaryan.com](https://www.teamaaryan.com)
+👉 [https://teamaaryan.vercel.app](Team Aaryan)
 
 ## 📝 How to Use (for Developers)
 
 To clone and run locally:
 
 ```
-git clone https://github.com/YOUR_USERNAME/richind-referral-site.git
+git clone https://github.com/gouranga-rout/teamaaryan.git
 ```
 ```
-cd richind-referral-site
+cd teamaaryan
 ```
 ```
 npm install
@@ -58,3 +58,4 @@ npm start
 - 📧 Feel free to connect with me:
 - Instagram: ```@gouranga__rout```
 - Email: ```mraaryan53@gmail.com```
+- Mobile: ```+918144175814```
