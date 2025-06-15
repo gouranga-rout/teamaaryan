@@ -1,5 +1,5 @@
 import React from "react";
-import offer from '../offer/Lucknow_meetup.jpg';
+import offer from '../offer/Jim_Corbett.jpg';
 
 const PopupOffer = ({ isVisible, onClose }) => {
   return (
@@ -8,12 +8,13 @@ const PopupOffer = ({ isVisible, onClose }) => {
       <div className={`popupOffer ${isVisible ? "visible" : ""}`}>
         <img
           src={offer}
-          alt="Lucknow Meet-up Details"
+          alt="Jim Corbett National park  Meet-up Details"
         />
-        <p className="popupOffer-status"> Offer Expired,<br /> Please wait for new offer</p>
+      {/*  <p className="popupOffer-status"> Offer Expired,<br /> Please wait for new offer</p>
         <button className="offerclose-btn" onClick={onClose}>
           Close
         </button>
+      */}
       </div>
     </>
   );
