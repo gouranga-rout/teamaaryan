@@ -3,10 +3,9 @@ import Navbar from './components/Navbar';
 import Announcement from './components/Announcement';
 import IntroText from './components/IntroText';
 import Presentation from './components/Presentation';
-
+import TripDetails from './components/TripDetails';
 import RegisterButton from './components/RegisterButton';
 import Popup from "./components/Popup";
-
 import EarningsProofs from './components/EarningsProofs';
 import LegalCertificates from './components/LegalCertificates';
 import Packages from './components/Packages';
@@ -33,6 +32,8 @@ return (
     <Announcement />
     <IntroText />
     <Presentation />
+    <RegisterButton onClick={handlePopupOpen} />
+    <TripDetails />
     <RegisterButton onClick={handlePopupOpen} />
     <EarningsProofs />
     <RegisterButton onClick={handlePopupOpen} />

@@ -38,15 +38,13 @@ const AboutMe = () => {
                   <li>Computer Programmer</li>
                   <li>Affiliate Marketer</li>
                   <li>Network Marketer</li>
-                  <li>Investor</li>
-		  <li>District Ambassador of Chatwise</li>
-                  <li>Cyber Security Researcher</li>
+		  <li>Ambassador of Chatwise</li>
                   <li>Full Stack Web Developer</li>
               </ul>
 
           </p>
           <p>For more information checkout my social media handles 😎</p><br /><br />
-      </div>
+      </div> <br />
 
    </div>
 
