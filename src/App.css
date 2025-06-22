@@ -247,99 +247,6 @@ button:hover {
   border-radius: 15px;
 }
 
-/*new pop-up div 
-
-.popup {
-  display: block;
-  position: fixed;
-  height: 36rem;
-  width: 100%;
-  top: 5rem;
-  z-index: 1000;
-  overflow: auto;
- }
-
-        .popup-content {
-            background-color: white;
-            margin-top: 0;
-            margin-left: 7%;
-            padding: .5rem;
-            border: .2rem solid red;
-            width: 80%;
-            height: 95.5%;
-            border-radius: .5rem;
-            box-shadow: 0 .3rem .93rem rgba(0,0,0,0.3);
-            position: relative;
-        }
-
-
-       .popup-content .popup-pkg {
-           width: 100%;
-           height: 97%;
-
-         }
-
-        .popup-pkg h1 {
-           color: black;
-           font-size: 1.3rem;
-           text-align: center;
-          }
-
-        .popup-pkg h1 span {
-            color: red;
-          }
-
-         .popup-pkg .popup-pkg-container {
-           display: flex;
-           flex-wrap: wrap;
-          }
-
-
-         .pkg_with_price  {
-          width: 8rem;
-          height: 8.2rem;
-          margin: 0.5rem;
-          padding: 0;
-          }
-
-         .pkg_with_price img {
-          width: 8rem;
-          height: 7.3rem;
-          align-items: center;
-          object-fit: cover;
-          background-position: center;
-          padding: 0;
-          margin-top: 0;
-          box-shadow: 0 0 .6rem #0ef;
-          cursor: pointer;
-         }
-
-         .pkg_with_price h1 {
-          background-color: crimson;
-          font-weight: bold;
-          font-size: .7rem;
-          color: white;
-          margin-top: 0;
-          text-align: center;
-          box-shadow: 0 0 .8rem crimson;
-         }
-
-        .close {
-            color: red;
-            float: right;
-            font-size: 2.5rem;
-            font-weight: bold;
-            cursor: pointer;
-        }
-
-        .close:hover,
-        .close:focus {
-            color: black;
-            text-decoration: none;
-        }
-*/
-
-
 /* Popup Container */
 .popup {
   display: block;
@@ -839,7 +746,7 @@ button:hover {
 
 .owner-photo-and-details .details {
  width: 100%;
- height: 16rem;
+ height: 16rem; /*16*/
  }
 
 .details p {
@@ -856,6 +763,10 @@ span {
  color: red;
 }
 
+.details p .sky {
+ color: #0ef;
+}
+
 
  ul {
  list-style: none;
@@ -867,8 +778,6 @@ ul li {
  font-size: 1.1rem;
  color: white;
  font-weight: bold;
- 
-
  }
 
 /* FAQ Section start */

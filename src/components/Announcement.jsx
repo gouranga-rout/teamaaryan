@@ -27,7 +27,7 @@ const Announcement = () => {
       <div className="offer-txt">Offer</div>
       <marquee className="offer" behavior="scroll" direction="left" scrollAmount="5">
         <a href="/" id="details-link" onClick={handleDetailsClick}>
-          🎉 3 Night's 4 Day's Nainital & Jim Corbett Meet-up 2025 🎉{" "}
+          🎉 3 Night's 4 Day's Nainital & Jim Corbett Trip 2025 🎉{" "}
           <span className="green">Get Details</span>
         </a>
       </marquee>

@@ -30,21 +30,15 @@ const AboutMe = () => {
        </div>
 
        <div className="details">
-          <p> Hello friends 👋🏻 I am <span>Aaryan </span>  
-             and I am a 12th pass student.
-             By profession I am a :
+         <p>I am <span className="sky">Aaryan</span> <br />
+            I’m proud to be the <span className="sky">Founder of Team Aaryan</span> — a newly launched digital network built on innovation, 
+            collaboration, and real results.<br /><br />
 
-              <ul>
-                  <li>Computer Programmer</li>
-                  <li>Affiliate Marketer</li>
-                  <li>Network Marketer</li>
-		  <li>Ambassador of Chatwise</li>
-                  <li>Full Stack Web Developer</li>
-              </ul>
+           <span className="sky">What’s Next ?</span><br />
+           We’re actively developing advanced <span className="sky">automation systems</span> for the team — 
+           designed to <span className="sky">streamline workflows, boost efficiency, and maximize profits</span> for all our members.</p><br /><br />
 
-          </p>
-          <p>For more information checkout my social media handles 😎</p><br /><br />
-      </div> <br />
+      </div>
 
    </div>
 

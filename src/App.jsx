@@ -33,13 +33,13 @@ return (
     <IntroText />
     <Presentation />
     <RegisterButton onClick={handlePopupOpen} />
-    <TripDetails />
-    <RegisterButton onClick={handlePopupOpen} />
     <EarningsProofs />
     <RegisterButton onClick={handlePopupOpen} />
     <LegalCertificates />
     <RegisterButton onClick={handlePopupOpen} />
     <Packages />
+    <RegisterButton onClick={handlePopupOpen} />
+    <TripDetails />
     <RegisterButton onClick={handlePopupOpen} />
     <Calculations />
     <RegisterButton onClick={handlePopupOpen} />
