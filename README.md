@@ -30,7 +30,7 @@ This website is created specifically for:
 ## 🔗 Live Website
 
 Check it out here:  
-👉 [https://teamaaryan.vercel.app](Team Aaryan)
+👉 [Team Aaryan](https://teamaaryan.vercel.app/)
 
 ## 📝 How to Use (for Developers)
 
